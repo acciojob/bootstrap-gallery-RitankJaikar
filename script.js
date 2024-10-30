@@ -1,4 +1,5 @@
 //your JS code here. If required.
+/*
 const cards= document.querySelectorAll(".card");
 const myCarousel= document.querySelector("#myCarousel");
 const myCarouselInner= document.querySelector(".carousel-inner");
@@ -28,3 +29,4 @@ myCarousel.addEventListener("click", e => {
         })
     }
 })
+*/
